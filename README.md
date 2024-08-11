@@ -35,9 +35,9 @@ The Random Forest (RF) model was chosen as the final model due to its superior p
 Strengths of Random Forest:
 
     * __Robustness__: RF is less prone to overfitting compared to NNs, particularly with small to medium-sized datasets.
-    * __Interpretability__: RF provides insights into feature importance, aiding in understanding the model's decision process.
+    * __Interpretability__: RF highlights feature importance, helping to understand the model's decision process.
     * __Flexibility__: RF handles both linear and nonlinear relationships effectively, whereas Linear Regression assumes linearity.
-    * __Less Data Preprocessing__: RF does not require extensive data scaling or normalization, unlike NNs, which need well-preprocessed data for optimal performance.
+    * __Less Data Preprocessing__: RF does not require extensive data scaling or normalisation, unlike NNs, which need well-preprocessed data for optimal performance.
 
 Given these advantages, the RF model is well-suited for predicting earthquake occurrences in the given dataset, providing reliable and interpretable results.
 
@@ -53,7 +53,7 @@ Grid Search Cross-Validation (Grid Search CV) was used to systematically explore
 
 ## RESULTS
 
-The Random Forest model achieved a Mean Squared Error (MSE) of 0.3184, Root Mean Squared Error (RMSE) of 0.5643, and Mean Absolute Error (MAE) of 0.4343 on the test set, indicating its high accuracy.
+The Random Forest model achieved a Mean Squared Error (MSE) of 0.3184, Root Mean Squared Error (RMSE) of 0.5643, and Mean Absolute Error (MAE) of 0.4343 on the test set, indicating a reasonable level of accuracy (especially in terms of earthquake magnitude).
 
 
 ## Files
