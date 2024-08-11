@@ -4,7 +4,7 @@
 ## Introduction
 This project focuses on predicting earthquake magnitudes in Indonesia using data from 2008 to 2022. Indonesia experiences frequent earthquakes due to its location in the "Ring of Fire." The dataset includes details like date, time, location coordinates, depth, and magnitude of each earthquake. Three machine learning models were compared: Linear Regression, Random Forest, and Neural Networks. This project highlights the potential of machine learning in natural disaster prediction.
 
-This folder contains 4 files:
+This repository contains 5 files:
 * data.csv - The training and validation data
 * Earthquake_ML_Model.ipynb - The training/testing of 3 machine learning models (Linear Regression, Random Forest, & Neural Network)
 * random_forest_model.pkl - SEE NOTE BELOW
