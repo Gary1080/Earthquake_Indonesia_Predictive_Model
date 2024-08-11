@@ -1,7 +1,7 @@
 # Earthquake Prediction Model
 
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## Introduction
 This project focuses on predicting earthquake magnitudes in Indonesia using data from 2008 to 2022. Indonesia experiences frequent earthquakes due to its location in the "Ring of Fire." The dataset includes details like date, time, location coordinates, depth, and magnitude of each earthquake. Three machine learning models were compared: Linear Regression, Random Forest, and Neural Networks. This project highlights the potential of machine learning in natural disaster prediction.
 
 This folder contains 4 files:
