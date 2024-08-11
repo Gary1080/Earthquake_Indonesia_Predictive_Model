@@ -15,7 +15,7 @@ This folder contains 4 files:
 Note: the model 'random_forest_model.pkl' could not be uploaded to Github due to file size limtations therefore there are 2 options to obtain it:
 1) download the model(1.53GB) from https://rapidgator.net/file/5e8b20640cf4eb1212fbad9c568d2f3a/random_forest_model.pkl.html
 or
-3) download the file ''Earthquake_ML_Model.ipynb' above onto your own machine from this repository and re-run the code to re-create the file 'random_forest_model.pkl'
+3) download the file 'Earthquake_ML_Model.ipynb' above onto your own machine from this repository and re-run the code to re-create the file 'random_forest_model.pkl'
 
 
 ## DATA
