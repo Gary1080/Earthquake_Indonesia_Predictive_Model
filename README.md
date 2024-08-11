@@ -7,10 +7,15 @@ This project focuses on predicting earthquake magnitudes in Indonesia using data
 This folder contains 4 files:
 * data.csv - The training and validation data
 * Earthquake_ML_Model.ipynb - The training/testing of 3 machine learning models (Linear Regression, Random Forest, & Neural Network)
-* random_forest_model.pkl - The random forest model
+* random_forest_model.pkl - SEE NOTE BELOW
 * Model_Testing.ipynb - A notebook to allow testing of new data points
 * data_sheet.md -  provides detailed information about the dataset including their creation, content, and intended use.
 * model_card.md - provides details about the machine learning model, including its performance and limitations.
+
+Note: the model 'random_forest_model.pkl' could not be uploaded to Github due to file size limtations therefore there are 2 options to obtain it:
+1) download the model(1.53GB) from https://rapidgator.net/file/5e8b20640cf4eb1212fbad9c568d2f3a/random_forest_model.pkl.html
+or
+3) download the file ''Earthquake_ML_Model.ipynb' above onto your own machine from this repository and re-run the code to re-create the file 'random_forest_model.pkl'
 
 
 ## DATA
