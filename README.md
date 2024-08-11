@@ -9,6 +9,8 @@ This folder contains 4 files:
 * Earthquake_ML_Model.ipynb - The training/testing of 3 machine learning models (Linear Regression, Random Forest, & Neural Network)
 * random_forest_model.pkl - The random forest model
 * Model_Testing.ipynb - A notebook to allow testing of new data points
+* data_sheet.md -  provides detailed information about the dataset including their creation, content, and intended use.
+* model_card.md - provides details about the machine learning model, including its performance and limitations.
 
 
 ## DATA
